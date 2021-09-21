@@ -3,7 +3,7 @@ Solutions of some problems presented in [Uri Online Judge](https://www.urionline
 
 The problems are in Python and C++. 
 
-So far, are solved the following problems:
+So far, I've solved the following problems:
 
 - [1095 - Sequencia IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095)
 
